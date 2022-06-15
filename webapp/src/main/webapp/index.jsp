@@ -12,7 +12,7 @@
         <label><b>User Name     
         </b>    
         </label>    
-        <input type="text" name="Uname" id="Uname" placeholder="Username">    
+        <input type="text" name="name" id="name" placeholder="Username">    
         <br><br>    
         <label><b>Password     
         </b>    
