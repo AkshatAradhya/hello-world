@@ -12,9 +12,9 @@
         <label><b>User Name     
         </b>    
         </label>    
-        <input type="text" name="name" id="name" placeholder="Username">    
+        <input type="text" name="name" id="name" placeholder="Usernami">    
         <br><br>    
-        <label><b>Password     
+        <label><b>Passwordfrgnjgtjg     
         </b>    
         </label>    
         <input type="Password" name="Pass" id="Pass" placeholder="Password">    
